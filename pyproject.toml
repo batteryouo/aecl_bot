@@ -9,3 +9,4 @@ dependencies = [
 ]
 
 [project.scripts]
+aecl_bot=".__main__:main"
